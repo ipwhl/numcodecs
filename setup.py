@@ -361,6 +361,7 @@ def run_setup(with_extensions):
             "Programming Language :: Python :: 3.7",
             "Programming Language :: Python :: 3.8",
             "Programming Language :: Python :: 3.9",
+            "Programming Language :: Python :: 3.10",
         ],
         author='Alistair Miles',
         author_email='alimanfoo@googlemail.com',
